@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/block_all",
+  "textures": {
+    "all": "./heart_of_the_mountain"
+  }
+}
